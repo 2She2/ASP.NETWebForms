@@ -1,0 +1,1 @@
+If homework is not running, check if you have "Northwind" database! Check the connection strings in each project!

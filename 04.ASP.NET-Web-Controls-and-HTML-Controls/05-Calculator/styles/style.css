@@ -1,0 +1,38 @@
+﻿body {
+}
+
+.button {
+    margin-right: 7px;
+    margin-bottom: 3px;
+    width: 50px;
+}
+
+    .button.resolve {
+        margin-top: 3px;
+        width: 95.5%;
+    }
+
+#resolve-container {
+    margin-left: 7px;
+}
+
+#buttons-container {
+    border-top: 3px groove #aeaeae;
+    border-bottom: 3px groove #aeaeae;
+    padding-left: 7px;
+    padding-top: 7px;
+}
+
+#calculatorContaianer {
+    display: inline-block;
+    border: 5px groove #aeaeae;
+}
+
+#TextBoxDisplay {
+    margin-top: 5px;
+    margin-bottom: 5px;
+    margin-left: 7px;
+    text-align: right;
+    border: 5px groove #aeaeae;
+    width: 225px;
+}
